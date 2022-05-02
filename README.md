@@ -1,0 +1,1 @@
+# kural_tabanli_siniflandirma
